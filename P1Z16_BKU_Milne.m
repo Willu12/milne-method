@@ -1,6 +1,6 @@
 function [x,y,dy,ddy] = P1Z16_BKU_Milne(A,b0,C,a,b,n)
 % Projekt 1, zadanie 16
-% Borys Kurdek, 320704
+% Borys Kurdek
 %
 % Rozwiazywanie liniowych rownan rozniczkowych drugiego rzedu z
 % metoda Milne'a
